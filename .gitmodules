@@ -1,0 +1,3 @@
+[submodule "OgeeWebApp/pfsone-ui"]
+	path = OgeeWebApp/pfsone-ui
+	url = https://vsharma2013@bitbucket.org/ogeedev/pfsone-ui.git
